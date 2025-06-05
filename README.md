@@ -13,7 +13,9 @@ A professional Excel-based dashboard to track employee task performance and time
 - 🔍 Interactive slicers for filtering (Date, Status, Employee)
 - 🎨 Professionally designed layout with sidebar,  icons, and footer summary
 
----
+--- screenshot preview:<img width="948" alt="time and task tracker dashboard" src="https://github.com/user-attachments/assets/3de1300b-8f0a-432d-853c-f34fb7d67ce0" />
+
+
 
 ## 📁 Files Included
 
